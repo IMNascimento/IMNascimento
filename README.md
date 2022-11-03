@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 - [LinkedIn](https://www.linkedin.com/in/igor-nascimento-a76a29155/)  
 - [Instagram](https://www.instagram.com/igosjn99/)
 
-### Demo
+### Em construção...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMNascimento)](https://github.com/IMNascimento/github-readme-stats)
+[![Linguagens Mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=IMNascimento)](https://github.com/IMNascimento/github-readme-stats)
 
 
 
