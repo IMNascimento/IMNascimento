@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 - [LinkedIn](https://www.linkedin.com/in/igor-nascimento-a76a29155/)  
 - [Instagram](https://www.instagram.com/igosjn99/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IMNascimento&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+### Demo
 
-# Top Languages Card
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMNascimento)](https://github.com/IMNascimento/github-readme-stats)
 
-The top languages card shows a GitHub user's most frequently used top language.
-
+-   Compact layout
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMNascimento)](https://github.com/IMNascimento/github-readme-stats)
 
 
 ![Snake animation](https://github.com/sthemonica/sthemonica/blob/output/github-contribution-grid-snake.svg)
