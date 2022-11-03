@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello, geeks! 👋
+# Em atualização... Aguardem
+### 📫 Como chegar até mim?
+- [LinkedIn](https://www.linkedin.com/in/igor-nascimento-a76a29155/)  
+- [Instagram](https://www.instagram.com/igosjn99/)
+
+
 
 
 ![Snake animation](https://github.com/sthemonica/sthemonica/blob/output/github-contribution-grid-snake.svg)
