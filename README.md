@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello, geeks! 👋
-## Oi eu sou Igor Nascimento, Desenvolvedor, apaixonado por T.I. sempre em busca de novos desafios!
+## Oi eu sou Igor , Desenvolvedor, apaixonado por T.I. sempre em busca de novos desafios!
 <div align="center">
   <a href="https://github.com/IMNascimento">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IMNascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
