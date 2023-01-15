@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 # Hello, geeks! 👋
 ## Oi eu sou Igor , Desenvolvedor, apaixonado por T.I. sempre em busca de novos desafios!
 <div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMNascimento&hide=php,python)](https://github.com/IMNascimento/github-readme-stats)
+  
+  
+  
+  
   <a href="https://github.com/IMNascimento">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IMNascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMNascimento&layout=compact&langs_count=7&theme=dracula"/>
