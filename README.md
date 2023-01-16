@@ -12,17 +12,46 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
 # Hello, geeks! 👋
-## Oi eu sou Igor , Desenvolvedor, apaixonado por T.I. sempre em busca de novos desafios!
+## <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"> Mais sobre mim
+
+<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```php
+class Developer {
+ private name = "Igor Muniz Nascimento";
+ private knowledge_area = "software engineer and Developer";
+ private languages = array("PHP", "Python", "JavaScript", "CSS", "HTML"); 
+ 
+ public function text(string $question): string
+ {
+    return "I'm passionate about development, I'm always looking for new challenges.";
+ }
+ 
+}
+```
+<!--
+  <p align="center">
+    <a href="https://github.com/IMNascimento/github-readme-stats/graphs/contributors">
+      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/IMNascimento/github-readme-stats" />
+    </a>
+    <a href="https://github.com/IMNascimento/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/IMNascimento/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/IMNascimento/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/IMNascimento/github-readme-stats?color=0088ff" />
+    </a>
+    <br />
+    <br />
+  </p>
+ --> 
 <div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IMNascimento&hide=php,python)](https://github.com/IMNascimento/github-readme-stats)
-  
-  
-  
-  
   <a href="https://github.com/IMNascimento">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IMNascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IMNascimento&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-imnascimento.vercel.app/api?username=IMNascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-imnascimento.vercel.app/api/top-langs/?username=IMNascimento&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
@@ -44,8 +73,8 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/igosjn99/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:trabalho.computador.sjn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-nascimento-a76a29155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://github.com/IMNascimento/" target="_blank"><img src="https://img.shields.io/github/followers/IMNascimento?label=follow&style=social" target="_blank"></a> 
 </div>
-
 
 
 
