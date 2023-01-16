@@ -33,7 +33,7 @@ class Developer {
  
 }
 ```
-<!--
+
   <p align="center">
     <a href="https://github.com/IMNascimento/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/IMNascimento/github-readme-stats" />
@@ -47,7 +47,7 @@ class Developer {
     <br />
     <br />
   </p>
- --> 
+  
 <div align="center">
   <a href="https://github.com/IMNascimento">
   <img height="180em" src="https://github-readme-stats-imnascimento.vercel.app/api?username=IMNascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
