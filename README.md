@@ -88,3 +88,9 @@ class Developer {
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/IMNascimento/count.svg" />
 </p>
+<p align="center"> 
+  <a href="http://www.antiifcampaign.com">
+  <img altura="60" largura="120"
+  src="https://i.ibb.co/M9qBPnR/banner-ive-joined.gif"
+  alt="Eu me juntei à Campanha Anti-IF"></a>
+</p>
