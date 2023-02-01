@@ -93,4 +93,7 @@ class Developer {
   <img altura="60" largura="120"
   src="https://i.ibb.co/M9qBPnR/banner-ive-joined.gif"
   alt="Eu me juntei à Campanha Anti-IF"></a>
+ <img altura="60" largura="120"
+  src="https://avatars.githubusercontent.com/u/36901?v=4"
+  alt="clean code Uncle BoB">
 </p>
