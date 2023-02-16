@@ -50,7 +50,7 @@ class Developer {
   
 <div align="center">
   <a href="https://github.com/IMNascimento">
-  <img height="180em" src="https://github-readme-stats-imnascimento.vercel.app/api?username=IMNascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api?username=IMNascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-imnascimento.vercel.app/api/top-langs/?username=IMNascimento&hide=html,javascript,css&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
