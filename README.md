@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hello, geeks! 👋
 ## <img height="30" src="https://narmament.com/src/imagem/logo.png"> Mais sobre mim
 
-<img align="right" width="300" height="246" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<!--<img align="right" width="300" height="246" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />-->
 
 ```php
 class Developer {
@@ -28,12 +28,18 @@ class Developer {
  
  public function text(string $question): string
  {
-    return "I'm passionate about development, I'm always looking for new challenges.";
+    return "Always looking for the extraordinary.";
  }
  
 }
 ```
+```python
+Class Business:
+    def __init__(self):
+        # under construction
 
+
+```
   <p align="center">
    <!-- <a href="https://github.com/IMNascimento/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/IMNascimento/github-readme-stats" />
