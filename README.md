@@ -24,7 +24,9 @@ Here are some ideas to get you started:
 class Developer {
  private name = "Igor Muniz Nascimento";
  private knowledge_area = "software engineer and Developer";
- private languages = array("PHP", "Python"); 
+ private languages = array("PHP", "Python");
+ private soft_skills = array();
+ private hard_skills = array();
  
  public function text(string $question): string
  {
