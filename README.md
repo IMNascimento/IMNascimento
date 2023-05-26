@@ -98,6 +98,8 @@ class Developer {
   alt="clean code Uncle BoB">
 </p>
  <p> 
- <img heighy="110" width="110" src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1"
+  <a href="https://www.credly.com/badges/91e58767-a703-47c9-9310-47a8c3e41d5b/public_url">
+ <img heighy="110" width="110" src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1"/>
+  </a>
 </p>
 
