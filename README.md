@@ -97,3 +97,7 @@ class Developer {
   src="https://avatars.githubusercontent.com/u/36901?v=4"
   alt="clean code Uncle BoB">
 </p>
+ <p> 
+ <img heighy="110" width="110" src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1"
+</p>
+
