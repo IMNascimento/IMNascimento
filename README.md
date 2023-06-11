@@ -25,8 +25,8 @@ class Developer {
  private name = "Igor Muniz Nascimento";
  private knowledge_area = "software engineer and Developer";
  private languages = array("PHP", "Python");
- private soft_skills = array();
- private hard_skills = array();
+ private soft_skills = array(); // under construction
+ private hard_skills = array(); // under construction
  
  public function text(string $question): string
  {
