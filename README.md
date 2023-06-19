@@ -45,8 +45,8 @@ class Developer {
      "Firewall Linux Iptables",
      "Django",
      "Flask",
-     "PSR"
-     "PEP"
+     "PSR",
+     "PEP",
      "Inteligência Artificial e Machine Learning",
      "Laravel",
      "Script de shell",
