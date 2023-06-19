@@ -25,8 +25,41 @@ class Developer {
  private name = "Igor Muniz Nascimento";
  private knowledge_area = "software engineer and Developer";
  private languages = array("PHP", "Python");
- private soft_skills = array(); // under construction
- private hard_skills = array(); // under construction
+ private soft_skills = array(
+     "Trabalho em Equipe",
+     "Liderança",
+     "Proatividade",
+     "Resiliência",
+     "Inteligência emocional",
+     "Autonomia"
+ );
+ private hard_skills = array(
+     "Git",
+     "Linux",
+     "Object oriented programming",
+     "Python",
+     "PHP",
+     "Design Patterns",
+     "Fundamentos de Ethical Hacking",
+     "Microtik advanced",
+     "Firewall Linux Iptables",
+     "Django",
+     "Flask",
+     "PSR"
+     "PEP"
+     "Inteligência Artificial e Machine Learning",
+     "Laravel",
+     "Script de shell",
+     "DBA MYSQL",
+     "SEO",
+     "HTML5",
+     "CSS3",
+     "Ballistics applied to forensics",
+     "Aeg  Maintenance",
+     "GBB Maintenance",
+     "Airsoft Sniper Maintenance",
+     "Firearms Dispatcher",
+ ); // under construction
  
  public function text(string $question): string
  {
@@ -37,9 +70,29 @@ class Developer {
 ```
 ```python
 Class Business:
-    def __init__(self):
-        # under construction
+      
+     def __init__(self)->None:
+         self.frederico_nascimento()
+         self.n_finances()
+         self.n_armament(False)
+    
+     def frederico_nascimento(self)->str:
+         return "Software development company and market strategies with data."
 
+     def n_finances(self)->str:
+         return "Financial services company." 
+
+     def n_armament(self,sold:bool)->int:
+         follow-up = "Military equipment and services company."
+         if sold:
+             return 0
+         else:
+             return 1
+
+     def compre_mais(self)->None:
+         pass #under construction
+
+      
 
 ```
   <p align="center">
