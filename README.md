@@ -146,6 +146,7 @@ Class Business:
 ### 🎮 Quer jogar?
 <div>
  <a href="https://robotsevolved.com/" target="_blank">Robots Envolved</a>
+ <a href="https://www.beecrowd.com.br/judge/pt" target="_blank">Beecrowd</a>
 </div>
 
 
