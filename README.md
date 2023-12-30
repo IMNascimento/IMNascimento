@@ -177,5 +177,8 @@ Class Business:
   <a href="https://www.credly.com/badges/91e58767-a703-47c9-9310-47a8c3e41d5b/public_url">
  <img heighy="110" width="110" src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1"/>
   </a>
+  <a href="https://www.credly.com/badges/bf6b723c-b7ee-4ef6-a322-78c0634b919c">
+ <img heighy="110" width="110" src="https://images.credly.com/size/340x340/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Python Essentials 2"/>
+  </a>
 </p>
 
