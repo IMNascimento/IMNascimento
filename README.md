@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ```php
 class Developer {
  private name = "Igor Muniz Nascimento";
- private knowledge_area = "software engineer and Developer";
+ private knowledge_area = "Software Engineer and Developer";
  private languages = array("PHP", "Python");
  private soft_skills = array(
      "Trabalho em Equipe",
@@ -36,7 +36,7 @@ class Developer {
  private hard_skills = array(
      "Git",
      "Linux",
-     "Object oriented programming",
+     "Object Oriented Programming",
      "Python",
      "PHP",
      "Design Patterns",
@@ -49,12 +49,12 @@ class Developer {
      "PEP",
      "Inteligência Artificial e Machine Learning",
      "Laravel",
-     "Script de shell",
+     "Script de Shell",
      "DBA MYSQL",
      "SEO",
      "HTML5",
      "CSS3",
-     "Ballistics applied to forensics",
+     "Ballistics Applied to Forensics",
      "Aeg  Maintenance",
      "GBB Maintenance",
      "Airsoft Sniper Maintenance",
