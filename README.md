@@ -1,22 +1,5 @@
-<!--
-**IMNascimento/IMNascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 # Hello, geeks! 👋
-## <a href="#"><img src="https://github.com/IMNascimento/DVR/assets/28989407/84028706-5a9e-4d00-af2c-2935e5604035" alt="Nascimento" width="30" height="30"></a> Mais sobre mim
+## <a href="https://imnascimento.github.io/Portifolio/" target="_blank"><img src="https://github.com/IMNascimento/DVR/assets/28989407/84028706-5a9e-4d00-af2c-2935e5604035" alt="Nascimento" width="30" height="30"></a> Mais sobre mim
 
 <!--<img align="right" width="300" height="246" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />-->
   <p align="center">
@@ -142,15 +125,17 @@ Here are some ideas to get you started:
  <a href="https://www.onlinegdb.com/" target="_blank">Online GBD</a>
 </div>
 
-### Em construção...
- <p> 
-  <a href="https://www.credly.com/badges/91e58767-a703-47c9-9310-47a8c3e41d5b/public_url">
- <img heighy="110" width="110" src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1"/>
+### Badges
+<p align="center">
+  <a href="https://www.credly.com/badges/91e58767-a703-47c9-9310-47a8c3e41d5b/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1"/>
   </a>
-  <a href="https://www.credly.com/badges/bf6b723c-b7ee-4ef6-a322-78c0634b919c/public_url">
- <img heighy="110" width="110" src="https://images.credly.com/size/340x340/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Python Essentials 2"/>
+  <a href="https://www.credly.com/badges/bf6b723c-b7ee-4ef6-a322-78c0634b919c/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/110x110/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Python Essentials 2"/>
   </a>
 </p>
+
+### Em construção...
 
 ```java
 public class Career {
