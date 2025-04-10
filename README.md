@@ -20,10 +20,14 @@
 <!--   *   Shows Github logo instead rank level
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra\&rank_icon=github)
 *   Shows user rank percentile instead of rank level
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IMNascimento\&rank_icon=percentile)-->
-  <a href="https://github.com/IMNascimento">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IMNascimento\&rank_icon=percentile)
+  
   <img height="180em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api?username=IMNascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api/top-langs/?username=IMNascimento&hide=html,javascript,css&layout=compact&langs_count=7&theme=dracula"/>
+-->
+  <a href="https://github.com/IMNascimento">
+    <img height="180em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api?username=IMNascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api/top-langs/?username=IMNascimento&hide=html,css,blade,less,scss&layout=compact&langs_count=7&theme=dracula&&cache_seconds=1800"/>
 </div>
 <div style="display: inline_block"><br> 
   <img align="center" alt="Igor-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
