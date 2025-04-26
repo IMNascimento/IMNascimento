@@ -30,85 +30,129 @@
     <img height="180em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api/top-langs/?username=IMNascimento&hide=html,css,blade,less,scss&layout=compact&langs_count=7&theme=dracula&&cache_seconds=1800"/>
 </div>
 <div style="display: inline_block"><br> 
-  <img align="center" alt="Igor-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img align="center" alt="Igor-github" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png">
-  
-  
-  <img align="center" alt="Igor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png">
-  <img align="center" alt="Igor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png">
-  <img align="center" alt="Igor-PHP" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php_(elephpant).png">
-  <img align="center" alt="Igor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png">
-  <img align="center" alt="Igor-Ts" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png">
-  <img align="center" alt="Igor-Java" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png">
-  <img align="center" alt="Igor-C++" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png">
-  <img align="center" alt="Igor-C" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png">
-  <img align="center" alt="Igor-R" height="30" width="40" src="https://skillicons.dev/icons?i=r">
-  
-  <img align="center" alt="Igor-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png">
-  <img align="center" alt="Igor-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png">
-  <img align="center" alt="Igor-SQLite" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png">
-  <img align="center" alt="Igor-MarianaDB" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png">
-  <img align="center" alt="Igor-Redis" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png">
- 
-  <img align="center" alt="Igor-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png">
-  <img align="center" alt="Igor-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png">
-  <img align="center" alt="Igor-Materialize" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/materialize.png">
-  <img align="center" alt="Igor-Bulma" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bulma.png">
 
-  <img align="center" alt="Igor-Angular" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png">
-  <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png">
-  <img align="center" alt="Igor-Next.js" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png">
-  <img align="center" alt="Igor-Spring" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png">
-  <img align="center" alt="Igor-Maven" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png">
-  <img align="center" alt="Igor-Springbot" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png">
-  <img align="center" alt="Igor-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png">
-  <img align="center" alt="Igor-Django" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
-  <img align="center" alt="Igor-Flask" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png">
-  <img align="center" alt="Igor-Pytest" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png">
-  <img align="center" alt="Igor-NumPy" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png">
-  <img align="center" alt="Igor-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png">
-  <img align="center" alt="Igor-TensorFlow" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png">
-  <img align="center" alt="Igor-Selenium" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/selenium.png">
+## Languages
+<img align="center" alt="HTML"    height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" />
+<img align="center" alt="CSS"     height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" />
+<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" />
+<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" />
+<img align="center" alt="Python"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img align="center" alt="PHP"     height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php_(elephpant).png" />
+<img align="center" alt="Go"      height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" />
+<img align="center" alt="Java"    height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" />
+<img align="center" alt="C++"     height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" />
+<img align="center" alt="C"       height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" />
+<img align="center" alt="R"       height="30" width="40" src="https://skillicons.dev/icons?i=r" />
+<img align="center" alt="Markdown"   height="30" width="40" src="https://skillicons.dev/icons?i=md" />
+
+---
+
+## Databases
+<img align="center" alt="MySQL"      height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" />
+<img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" />
+<img align="center" alt="SQLite"     height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" />
+<img align="center" alt="MariaDB"    height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" />
+<img align="center" alt="Redis"      height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" />
+
+---
+
+## Backend Frameworks & Tools
+<img align="center" alt="Spring"     height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" />
+<img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" />
+<img align="center" alt="Laravel"    height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" />
+<img align="center" alt="Django"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
+<img align="center" alt="Flask"      height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" />
+<img align="center" alt="Whatsmeow"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+<img align="center" alt="FastApi"   height="30" width="40" src="https://skillicons.dev/icons?i=fastapi" />
+
+---
+
+## Frontend Frameworks & UI
+<img align="center" alt="Bootstrap"    height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" />
+<img align="center" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" />
+<img align="center" alt="Materialize"  height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/materialize.png" />
+<img align="center" alt="Bulma"        height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bulma.png" />
+<img align="center" alt="React"        height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" />
+<img align="center" alt="Next.js"      height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" />
+<img align="center" alt="Angular"      height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" />
+
+---
+
+## Data Science & Machine Learning 
+<img align="center" alt="NumPy"      height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" />
+<img align="center" alt="Pandas"     height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" />
+<img align="center" alt="TensorFlow" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" />
+<img align="center" alt="OpenCv"   height="30" width="40" src="https://skillicons.dev/icons?i=opencv" />
+<img align="center" alt="Pytorch"   height="30" width="40" src="https://skillicons.dev/icons?i=pytorch" />
+<img align="center" alt="Sklearn"   height="30" width="40" src="https://skillicons.dev/icons?i=sklearn" />
+
+
+---
+
+## Version Control
+<img align="center" alt="Git"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
+<img align="center" alt="GitHub"  height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" />
+
+---
+
+## DevOps & CI/CD
+<img align="center" alt="Docker"     height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" />
+<img align="center" alt="CI/CD"      height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" />
+<img align="center" alt="NGINX"      height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" />
+<img align="center" alt="DigitalOcean" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/digital_ocean.png" />
+<img align="center" alt="GitHub Actions"   height="30" width="40" src="https://skillicons.dev/icons?i=githubactions" />
+
+---
+
+## Testing
+<img align="center" alt="PyTest"     height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png" />
+<img align="center" alt="Selenium"   height="30" width="40" src="https://skillicons.dev/icons?i=selenium" />
+
+---
+
+## Shell & Scripting
+<img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" />
+<img align="center" alt="OpenCv"   height="30" width="40" src="https://skillicons.dev/icons?i=powershell" />
+
+---
+
+## Editors & IDEs
+<img align="center" alt="VS Code"   height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" />
+<img align="center" alt="Vim"       height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" />
+<img align="center" alt="Atom"      height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/atom.png" />
+<img align="center" alt="Sublime"   height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sublime_text.png" />
+<img align="center" alt="Eclipse"   height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" />
+<img align="center" alt="Jupyter"   height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" />
+<img align="center" alt="Postman"   height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" />
+<img align="center" alt="Swagger"   height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" />
+
+---
+
+## Operating Systems
+<img align="center" alt="Windows"  height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" />
+<img align="center" alt="macOS"    height="30" width="40" src="https://skillicons.dev/icons?i=apple" />
+<img align="center" alt="Linux"    height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" />
+<img align="center" alt="Ubuntu"   height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" />
+<img align="center" alt="Kali"     height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" />
+<img align="center" alt="Mint"     height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux_mint.png" />
+<img align="center" alt="Debian"   height="30" width="40" src="https://skillicons.dev/icons?i=debian" />
+
+---
+
+## Build Tools & Package Managers
+<img align="center" alt="Maven" height="30" width="40"  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" />
+<img align="center" alt="npm"   height="30" width="40"  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" />
+
+---
+
+## Embedded & IoT
+<img align="center" alt="Arduino"   height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" />
+<img align="center" alt="Raspberry Pi" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" />
   
-
-  <img align="center" alt="Igor-Bash" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png">
-  <img align="center" alt="Igor-Docker" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png">
-  <img align="center" alt="Igor-CI-CD" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png">
-  <img align="center" alt="Igor-NGINX" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png">
-  <img align="center" alt="Igor-DigitalOcean" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/digital_ocean.png">
-
-  <img align="center" alt="Igor-Canva" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png">
-  <img align="center" alt="Igor-Swagger" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png">
-  <img align="center" alt="Igor-NPM" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png">
-
-  <img align="center" alt="Igor-http" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png">
-  <img align="center" alt="Igor-RESTFULL" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png">
-   
-  <img align="center" alt="Igor-Postman" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png">
-  <img align="center" alt="Igor-Jupiter" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png">
-   
-  <img align="center" alt="Igor-Eclipse" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png">
-  <img align="center" alt="Igor-vim" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png">
-  <img align="center" alt="Igor-vscode" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png">
-  <img align="center" alt="Igor-atom" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/atom.png">
-  <img align="center" alt="Igor-sublime" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sublime_text.png">
-
-  <img align="center" alt="Igor-Windows" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png">
-  <img align="center" alt="Igor-MacOs" height="30" width="40" src="https://skillicons.dev/icons?i=apple">
-  <img align="center" alt="Igor-Linux" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png">
-  
-  <img align="center" alt="Igor-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png">
-  <img align="center" alt="Igor-Kali" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png">
-  <img align="center" alt="Igor-Mint" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux_mint.png">
-
- <img align="center" alt="Igor-arduino" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png">
- <img align="center" alt="Igor-raspberry" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png">
-  
+ ---
  
 </div>
-  
-  ##
+
  ### 📫 Como chegar até mim?
 <div> 
   <a href="https://www.instagram.com/igosjn99/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -140,58 +184,59 @@
 </p>
 
 ### Em construção...
-
+  
 ```java
-public class Career {
-
-    public static void main(String[] args) {
-        Career career = new Career();
-        career.showCareerSummary();
-    }
-
-    private void showCareerSummary() {
-        Experience[] experiences = {
-                new Experience("Senior Software Engineer", "SophiaLabs", "02/2025", "Presente", "Desenvolvimento full-stack com Django, Flask, Angular, React, Next.js, CI/CD, Machine Learning com RNN, otimização de servidores Linux, open-source."),
-                new Experience("AI Engineer", "M&M Tech", "10/2024", "04/2025", "Soluções em IA com Deep Learning, TensorFlow, PyTorch, Keras, APIs RESTful, PostgreSQL, React.js, AngularJS, CI/CD, metodologias ágeis."),
-                new Experience("Desenvolvedor Python", "Autônomo", "01/2023", "04/2025", "Automação, web scraping, Django, Flask, APIs RESTful, testes automatizados, machine learning e análise preditiva."),
-                new Experience("Professor Técnico", "SENAI", "05/2022", "10/2024", "Ensino técnico em Python, PHP, Git, HTML5, CSS3, segurança de sistemas."),
-                new Experience("Organizador de Eventos", "SENAI", "11/2022", "11/2022", "Organização da Maratona de Programação Senai."),
-                new Experience("Founder", "NArmament", "01/2018", "01/2023", "Empreendedorismo em manutenção bélica e recreativa, e-commerce, sistemas em PHP, gestão logística."),
-                new Experience("Desenvolvedor PHP", "Autônomo", "01/2017", "12/2022", "Desenvolvimento de sistemas internos, gestão e e-commerce, testes de segurança e suporte técnico."),
-                new Experience("Analista de Suporte", "Elo.net", "03/2017", "05/2022", "Suporte técnico em redes, Mikrotik, desenvolvimento de micro-sistemas internos."),
-                new Experience("Auxiliar Administrativo", "Agência de Desenvolvimento", "01/2016", "02/2017", "Atendimento administrativo, suporte bancário e relatórios."),
-                new Experience("Balconista", "Family Pizza", "01/2014", "12/2015", "Atendimento ao cliente e reposição de estoque."),
-                new Experience("Recepcionista", "Studio Maisa Muniz", "01/2013", "12/2013", "Atendimento e agendamento de clientes.")
-        };
-
-        for (Experience experience : experiences) {
-            System.out.println(experience);
-            System.out.println("-----------------------------------------------------");
-        }
-    }
-
-    class Experience {
-        private String position;
-        private String company;
-        private String startDate;
-        private String endDate;
-        private String details;
-
-        public Experience(String position, String company, String startDate, String endDate, String details) {
-            this.position = position;
-            this.company = company;
-            this.startDate = startDate;
-            this.endDate = endDate;
-            this.details = details;
-        }
-
-        @Override
-        public String toString() {
-            return "Cargo: " + position + "\nEmpresa: " + company + "\nPeríodo: " + startDate + " - " + endDate + "\nDetalhes: " + details;
-        }
-    }
-}
+      public class Career {
+      
+          public static void main(String[] args) {
+              Career career = new Career();
+              career.showCareerSummary();
+          }
+      
+          private void showCareerSummary() {
+              Experience[] experiences = {
+                      new Experience("Senior Software Engineer", "SophiaLabs", "02/2025", "Presente", "Desenvolvimento full-stack com Django, Flask, Angular, React, Next.js, CI/CD, Machine Learning com RNN, otimização de servidores Linux, open-source."),
+                      new Experience("AI Engineer", "M&M Tech", "10/2024", "04/2025", "Soluções em IA com Deep Learning, TensorFlow, PyTorch, Keras, APIs RESTful, PostgreSQL, React.js, AngularJS, CI/CD, metodologias ágeis."),
+                      new Experience("Desenvolvedor Python", "Autônomo", "01/2023", "04/2025", "Automação, web scraping, Django, Flask, APIs RESTful, testes automatizados, machine learning e análise preditiva."),
+                      new Experience("Professor Técnico", "SENAI", "05/2022", "10/2024", "Ensino técnico em Python, PHP, Git, HTML5, CSS3, segurança de sistemas."),
+                      new Experience("Organizador de Eventos", "SENAI", "11/2022", "11/2022", "Organização da Maratona de Programação Senai."),
+                      new Experience("Founder", "NArmament", "01/2018", "01/2023", "Empreendedorismo em manutenção bélica e recreativa, e-commerce, sistemas em PHP, gestão logística."),
+                      new Experience("Desenvolvedor PHP", "Autônomo", "01/2017", "12/2022", "Desenvolvimento de sistemas internos, gestão e e-commerce, testes de segurança e suporte técnico."),
+                      new Experience("Analista de Suporte", "Elo.net", "03/2017", "05/2022", "Suporte técnico em redes, Mikrotik, desenvolvimento de micro-sistemas internos."),
+                      new Experience("Auxiliar Administrativo", "Agência de Desenvolvimento", "01/2016", "02/2017", "Atendimento administrativo, suporte bancário e relatórios."),
+                      new Experience("Balconista", "Family Pizza", "01/2014", "12/2015", "Atendimento ao cliente e reposição de estoque."),
+                      new Experience("Recepcionista", "Studio Maisa Muniz", "01/2013", "12/2013", "Atendimento e agendamento de clientes.")
+              };
+      
+              for (Experience experience : experiences) {
+                  System.out.println(experience);
+                  System.out.println("-----------------------------------------------------");
+              }
+          }
+      
+          class Experience {
+              private String position;
+              private String company;
+              private String startDate;
+              private String endDate;
+              private String details;
+      
+              public Experience(String position, String company, String startDate, String endDate, String details) {
+                  this.position = position;
+                  this.company = company;
+                  this.startDate = startDate;
+                  this.endDate = endDate;
+                  this.details = details;
+              }
+      
+              @Override
+              public String toString() {
+                  return "Cargo: " + position + "\nEmpresa: " + company + "\nPeríodo: " + startDate + " - " + endDate + "\nDetalhes: " + details;
+              }
+          }
+      }
 ```
+
 ```c++
 #include <iostream>
 #include <string>
@@ -257,6 +302,7 @@ int main() {
     return 0;
 }
 ```
+
 ```php
 <?php
 
