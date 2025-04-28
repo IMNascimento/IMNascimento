@@ -27,7 +27,7 @@
 -->
   <a href="https://github.com/IMNascimento">
     <img height="180em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api?username=IMNascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-    <img height="180em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api/top-langs/?username=IMNascimento&hide=html,css,blade,less,scss&layout=compact&langs_count=7&theme=dracula&&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats-ip8i-imnascimento.vercel.app/api/top-langs/?username=IMNascimento&hide=html,css,blade,less,scss,jupyter%20notebook&layout=compact&langs_count=7&theme=dracula&&cache_seconds=1800"/>
 </div>
 <div style="display: inline_block"><br> 
 
