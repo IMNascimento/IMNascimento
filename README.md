@@ -184,6 +184,9 @@
    <a href="https://www.credly.com/badges/e006dfae-223b-44db-aafb-d99506735fe5/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/340x340/images/b480dfb3-5387-491d-a8db-0e01ad620b51/Coursera_20Deep_20Learning_20with_20PyTorch.png" alt="Deep Learning with PyTorch"/>
   </a>
+  <a href="https://www.credly.com/badges/2356a962-7898-470c-9702-e17a17e075aa/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/340x340/images/61d40b7e-46df-4f8a-ac27-cb8520d8c15e/image.png" alt="Deep Learning with Tensorflow/>
+  </a>
    <a href="https://www.credly.com/badges/6cf9e1e2-f37f-4b3a-b171-aafd5159daca/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/340x340/images/56c60565-e945-4bcd-b8a6-9b2f43e1b0d9/Coursera_20Machine_20Learning_20with_20Python_20V2.png" alt="Machine Learning with Python (V2)"/>
   </a>
