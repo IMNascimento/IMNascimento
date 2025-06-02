@@ -196,6 +196,10 @@
   <a href="https://www.credly.com/badges/c8b6667b-ba05-481f-bc5a-b35843fc9741/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/340x340/images/a182504c-d74d-4d7c-8059-7401184fadf7/AI_Engineering_Deep_Learning_Capstone.png" alt="AI Capstone Project with Deep Learning"/>
   </a>
+  <a href="https://www.credly.com/badges/20d53b38-08f2-4886-9758-55763be18163/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/340x340/images/a9f5d0ac-5ee8-47a6-a9df-09468f26e401/image.png" alt="Generative AI and LLMs: Architecture and Data Preparation"/>
+  </a>
+  
   <a href="https://imnascimento.github.io/Portifolio/" target="_blank" style="text-decoration: none;">
   <img height="110" src="https://cdn.qwiklabs.com/XmDwq0koRvCeVVod7HM4qb%2BiCc34fbu50x1jHZfeSm4%3D" alt="MLOps"/>
   </a>
