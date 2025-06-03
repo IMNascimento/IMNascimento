@@ -31,6 +31,49 @@
 </div>
 <div style="display: inline_block"><br> 
 
+### Badges
+<p align="center">
+  <a href="https://www.credly.com/badges/91e58767-a703-47c9-9310-47a8c3e41d5b/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1"/>
+  </a>
+  <a href="https://www.credly.com/badges/bf6b723c-b7ee-4ef6-a322-78c0634b919c/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/110x110/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Python Essentials 2"/>
+  </a>
+   <a href="https://www.credly.com/badges/e006dfae-223b-44db-aafb-d99506735fe5/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/340x340/images/b480dfb3-5387-491d-a8db-0e01ad620b51/Coursera_20Deep_20Learning_20with_20PyTorch.png" alt="Deep Learning with PyTorch"/>
+  </a>
+  <a href="https://www.credly.com/badges/2356a962-7898-470c-9702-e17a17e075aa/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/340x340/images/61d40b7e-46df-4f8a-ac27-cb8520d8c15e/image.png" alt="Deep Learning with Tensorflow/>
+  </a>
+   <a href="https://www.credly.com/badges/6cf9e1e2-f37f-4b3a-b171-aafd5159daca/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/340x340/images/56c60565-e945-4bcd-b8a6-9b2f43e1b0d9/Coursera_20Machine_20Learning_20with_20Python_20V2.png" alt="Machine Learning with Python (V2)"/>
+  </a>
+  <a href="https://www.credly.com/badges/9332b59c-73af-4b0d-b686-497f3d91444f/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/340x340/images/91de936a-1322-446d-9ea6-949d78c57428/image.png" alt="Deep Learning Essentials with Keras"/>
+  </a>
+  <a href="https://www.credly.com/badges/c8b6667b-ba05-481f-bc5a-b35843fc9741/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/340x340/images/a182504c-d74d-4d7c-8059-7401184fadf7/AI_Engineering_Deep_Learning_Capstone.png" alt="AI Capstone Project with Deep Learning"/>
+  </a>
+  <a href="https://www.credly.com/badges/20d53b38-08f2-4886-9758-55763be18163/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/340x340/images/a9f5d0ac-5ee8-47a6-a9df-09468f26e401/image.png" alt="Generative AI and LLMs: Architecture and Data Preparation"/>
+  </a>
+  <a href="https://www.credly.com/badges/21f54818-e3df-47d9-9252-1c5e82e1de3d/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/110x110/images/030dff43-c0f1-4328-83d3-31e3124ca068/image.png" alt="Computer Vision and Image Processing Essentials"/>
+  </a>
+  <a href="https://imnascimento.github.io/Portifolio/" target="_blank" style="text-decoration: none;">
+  <img height="110" src="https://cdn.qwiklabs.com/XmDwq0koRvCeVVod7HM4qb%2BiCc34fbu50x1jHZfeSm4%3D" alt="MLOps"/>
+  </a>
+</p>
+
+ ### 📫 Como chegar até mim?
+<div> 
+  <a href="https://www.instagram.com/igosjn99/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:trabalho.computador.sjn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/igor-nascimento-a76a29155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://github.com/IMNascimento/" target="_blank"><img src="https://img.shields.io/github/followers/IMNascimento?label=follow&style=social" target="_blank"></a> 
+</div>
+
+
 ## Languages
 <img align="center" alt="HTML"    height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" />
 <img align="center" alt="CSS"     height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" />
@@ -153,15 +196,6 @@
  
 </div>
 
- ### 📫 Como chegar até mim?
-<div> 
-  <a href="https://www.instagram.com/igosjn99/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:trabalho.computador.sjn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-nascimento-a76a29155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://github.com/IMNascimento/" target="_blank"><img src="https://img.shields.io/github/followers/IMNascimento?label=follow&style=social" target="_blank"></a> 
-</div>
-
-
 ### 🎮 Quer jogar?
 <div>
  <a href="https://robotsevolved.com/" target="_blank">Robots Envolved</a>
@@ -173,39 +207,7 @@
  <a href="https://www.onlinegdb.com/" target="_blank">Online GBD</a>
 </div>
 
-### Badges
-<p align="center">
-  <a href="https://www.credly.com/badges/91e58767-a703-47c9-9310-47a8c3e41d5b/public_url" target="_blank" style="text-decoration: none;">
-    <img height="110" src="https://images.credly.com/size/110x110/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1"/>
-  </a>
-  <a href="https://www.credly.com/badges/bf6b723c-b7ee-4ef6-a322-78c0634b919c/public_url" target="_blank" style="text-decoration: none;">
-    <img height="110" src="https://images.credly.com/size/110x110/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Python Essentials 2"/>
-  </a>
-   <a href="https://www.credly.com/badges/e006dfae-223b-44db-aafb-d99506735fe5/public_url" target="_blank" style="text-decoration: none;">
-    <img height="110" src="https://images.credly.com/size/340x340/images/b480dfb3-5387-491d-a8db-0e01ad620b51/Coursera_20Deep_20Learning_20with_20PyTorch.png" alt="Deep Learning with PyTorch"/>
-  </a>
-  <a href="https://www.credly.com/badges/2356a962-7898-470c-9702-e17a17e075aa/public_url" target="_blank" style="text-decoration: none;">
-    <img height="110" src="https://images.credly.com/size/340x340/images/61d40b7e-46df-4f8a-ac27-cb8520d8c15e/image.png" alt="Deep Learning with Tensorflow/>
-  </a>
-   <a href="https://www.credly.com/badges/6cf9e1e2-f37f-4b3a-b171-aafd5159daca/public_url" target="_blank" style="text-decoration: none;">
-    <img height="110" src="https://images.credly.com/size/340x340/images/56c60565-e945-4bcd-b8a6-9b2f43e1b0d9/Coursera_20Machine_20Learning_20with_20Python_20V2.png" alt="Machine Learning with Python (V2)"/>
-  </a>
-  <a href="https://www.credly.com/badges/9332b59c-73af-4b0d-b686-497f3d91444f/public_url" target="_blank" style="text-decoration: none;">
-    <img height="110" src="https://images.credly.com/size/340x340/images/91de936a-1322-446d-9ea6-949d78c57428/image.png" alt="Deep Learning Essentials with Keras"/>
-  </a>
-  <a href="https://www.credly.com/badges/c8b6667b-ba05-481f-bc5a-b35843fc9741/public_url" target="_blank" style="text-decoration: none;">
-    <img height="110" src="https://images.credly.com/size/340x340/images/a182504c-d74d-4d7c-8059-7401184fadf7/AI_Engineering_Deep_Learning_Capstone.png" alt="AI Capstone Project with Deep Learning"/>
-  </a>
-  <a href="https://www.credly.com/badges/20d53b38-08f2-4886-9758-55763be18163/public_url" target="_blank" style="text-decoration: none;">
-    <img height="110" src="https://images.credly.com/size/340x340/images/a9f5d0ac-5ee8-47a6-a9df-09468f26e401/image.png" alt="Generative AI and LLMs: Architecture and Data Preparation"/>
-  </a>
-  <a href="https://www.credly.com/badges/21f54818-e3df-47d9-9252-1c5e82e1de3d/public_url" target="_blank" style="text-decoration: none;">
-    <img height="110" src="https://images.credly.com/size/110x110/images/030dff43-c0f1-4328-83d3-31e3124ca068/image.png" alt="Computer Vision and Image Processing Essentials"/>
-  </a>
-  <a href="https://imnascimento.github.io/Portifolio/" target="_blank" style="text-decoration: none;">
-  <img height="110" src="https://cdn.qwiklabs.com/XmDwq0koRvCeVVod7HM4qb%2BiCc34fbu50x1jHZfeSm4%3D" alt="MLOps"/>
-  </a>
-</p>
+
 
 ### Em construção...
   
