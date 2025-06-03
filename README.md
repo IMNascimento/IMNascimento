@@ -199,7 +199,9 @@
   <a href="https://www.credly.com/badges/20d53b38-08f2-4886-9758-55763be18163/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/340x340/images/a9f5d0ac-5ee8-47a6-a9df-09468f26e401/image.png" alt="Generative AI and LLMs: Architecture and Data Preparation"/>
   </a>
-  
+  <a href="https://www.credly.com/badges/21f54818-e3df-47d9-9252-1c5e82e1de3d/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/110x110/images/030dff43-c0f1-4328-83d3-31e3124ca068/image.png" alt="Computer Vision and Image Processing Essentials"/>
+  </a>
   <a href="https://imnascimento.github.io/Portifolio/" target="_blank" style="text-decoration: none;">
   <img height="110" src="https://cdn.qwiklabs.com/XmDwq0koRvCeVVod7HM4qb%2BiCc34fbu50x1jHZfeSm4%3D" alt="MLOps"/>
   </a>
