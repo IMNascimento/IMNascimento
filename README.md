@@ -51,6 +51,10 @@
   <a href="https://www.credly.com/badges/b2a77c0a-f45a-4f55-92e4-a7617c57993c/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/340x340/images/954a697e-66c0-45c3-8681-ced968dfa73e/blob" alt="Generative AI Foundational Models for NLP & Language Understanding"/>
   </a>
+  <a href="https://www.credly.com/badges/00e7a6b7-e020-4c63-a834-b8024518a313/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/340x340/images/bc7582ae-95c6-4e92-a425-d355c65b7d10/image.png" alt="Generative AI Language Modeling with Transformers"/>
+  </a>
+  
   <a href="https://www.credly.com/badges/9332b59c-73af-4b0d-b686-497f3d91444f/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/340x340/images/91de936a-1322-446d-9ea6-949d78c57428/image.png" alt="Deep Learning Essentials with Keras"/>
   </a>
