@@ -58,6 +58,10 @@
   <a href="https://www.credly.com/badges/9332b59c-73af-4b0d-b686-497f3d91444f/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/340x340/images/91de936a-1322-446d-9ea6-949d78c57428/image.png" alt="Deep Learning Essentials with Keras"/>
   </a>
+  <a href="https://www.credly.com/badges/3d5fc7a7-e6cd-4cba-b4f3-72d62f0f1bf7/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/340x340/images/6387f397-234b-480c-a0a0-4f9d6f8654a8/blob" alt="Generative AI Engineering with Transformers & LLMs"/>
+  </a>
+  
   <a href="https://www.credly.com/badges/c8b6667b-ba05-481f-bc5a-b35843fc9741/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/340x340/images/a182504c-d74d-4d7c-8059-7401184fadf7/AI_Engineering_Deep_Learning_Capstone.png" alt="AI Capstone Project with Deep Learning"/>
   </a>
