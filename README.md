@@ -48,6 +48,9 @@
    <a href="https://www.credly.com/badges/6cf9e1e2-f37f-4b3a-b171-aafd5159daca/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/340x340/images/56c60565-e945-4bcd-b8a6-9b2f43e1b0d9/Coursera_20Machine_20Learning_20with_20Python_20V2.png" alt="Machine Learning with Python (V2)"/>
   </a>
+  <a href="https://www.credly.com/badges/b2a77c0a-f45a-4f55-92e4-a7617c57993c/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/340x340/images/954a697e-66c0-45c3-8681-ced968dfa73e/blob" alt="Generative AI Foundational Models for NLP & Language Understanding"/>
+  </a>
   <a href="https://www.credly.com/badges/9332b59c-73af-4b0d-b686-497f3d91444f/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/340x340/images/91de936a-1322-446d-9ea6-949d78c57428/image.png" alt="Deep Learning Essentials with Keras"/>
   </a>
@@ -60,6 +63,7 @@
   <a href="https://www.credly.com/badges/21f54818-e3df-47d9-9252-1c5e82e1de3d/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/110x110/images/030dff43-c0f1-4328-83d3-31e3124ca068/image.png" alt="Computer Vision and Image Processing Essentials"/>
   </a>
+  
   <a href="https://imnascimento.github.io/Portifolio/" target="_blank" style="text-decoration: none;">
   <img height="110" src="https://cdn.qwiklabs.com/XmDwq0koRvCeVVod7HM4qb%2BiCc34fbu50x1jHZfeSm4%3D" alt="MLOps"/>
   </a>
