@@ -61,7 +61,11 @@
   <a href="https://www.credly.com/badges/3d5fc7a7-e6cd-4cba-b4f3-72d62f0f1bf7/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/340x340/images/6387f397-234b-480c-a0a0-4f9d6f8654a8/blob" alt="Generative AI Engineering with Transformers & LLMs"/>
   </a>
+  <a href="https://www.credly.com/badges/618568ed-1860-4a2f-b7ad-224be838006b/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/340x340/images/e61e6ff9-3502-4d64-b726-64f932ffbf02/Coursera_20Generative_20AI_20Advanced_20Fine_20Tuning_20for_20LLMs.png" alt="Generative AI Advance Fine-Tuning for LLMs"/>
+  </a>
   
+
   <a href="https://www.credly.com/badges/c8b6667b-ba05-481f-bc5a-b35843fc9741/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/340x340/images/a182504c-d74d-4d7c-8059-7401184fadf7/AI_Engineering_Deep_Learning_Capstone.png" alt="AI Capstone Project with Deep Learning"/>
   </a>
