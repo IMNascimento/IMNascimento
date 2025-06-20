@@ -72,6 +72,10 @@
   <a href="https://www.credly.com/badges/20d53b38-08f2-4886-9758-55763be18163/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/340x340/images/a9f5d0ac-5ee8-47a6-a9df-09468f26e401/image.png" alt="Generative AI and LLMs: Architecture and Data Preparation"/>
   </a>
+  <a href="https://www.credly.com/badges/a777521c-99de-4df9-831d-0ba3f8058c9b/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/340x340/images/bc1ee755-d8b5-4068-91fa-60a6e05f12dc/Coursera_20AI_20Agents_20Using_20RAG_20and_20LangChain.png" alt="AI Agents Using RAG and LangChain"/>
+  </a>
+  
   <a href="https://www.credly.com/badges/21f54818-e3df-47d9-9252-1c5e82e1de3d/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/110x110/images/030dff43-c0f1-4328-83d3-31e3124ca068/image.png" alt="Computer Vision and Image Processing Essentials"/>
   </a>
