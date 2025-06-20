@@ -39,6 +39,10 @@
   <a href="https://www.credly.com/badges/bf6b723c-b7ee-4ef6-a322-78c0634b919c/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/110x110/images/3f802526-7274-4230-91ab-f6d1a35340e6/image.png" alt="Python Essentials 2"/>
   </a>
+  <a href="https://www.credly.com/badges/3cf741cf-ba8d-40b5-a840-029e5956f7bb/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/340x340/images/fa4ad241-cbb4-4330-9327-32b9696919fe/Coursera_20AI_20Engineering_20Professional_20Certificate.png" alt="IBM AI Engineering Professional Certificate"/>
+  </a>
+  
    <a href="https://www.credly.com/badges/e006dfae-223b-44db-aafb-d99506735fe5/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/340x340/images/b480dfb3-5387-491d-a8db-0e01ad620b51/Coursera_20Deep_20Learning_20with_20PyTorch.png" alt="Deep Learning with PyTorch"/>
   </a>
