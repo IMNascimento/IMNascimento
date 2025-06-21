@@ -79,11 +79,15 @@
   <a href="https://www.credly.com/badges/a777521c-99de-4df9-831d-0ba3f8058c9b/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/340x340/images/bc1ee755-d8b5-4068-91fa-60a6e05f12dc/Coursera_20AI_20Agents_20Using_20RAG_20and_20LangChain.png" alt="AI Agents Using RAG and LangChain"/>
   </a>
-  
   <a href="https://www.credly.com/badges/21f54818-e3df-47d9-9252-1c5e82e1de3d/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/110x110/images/030dff43-c0f1-4328-83d3-31e3124ca068/image.png" alt="Computer Vision and Image Processing Essentials"/>
   </a>
-  
+  <a href="https://www.credly.com/badges/04966e4e-1c16-42da-9a22-9cf6bc0048ad/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/340x340/images/7658c4f1-0570-42c7-83b0-04cac8b0aca2/image.png" alt="Generative AI Essentials"/>
+  </a>
+  <a href="https://www.credly.com/badges/218aa7a4-90ce-460e-87eb-f9f49e35e1e4/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/340x340/images/3e199561-bc4a-4621-9361-340fc43d997e/Coursera_20Artificial_20Intelligence_20Essentials_20V2.png" alt="Artificial Intelligence Essentials"/>
+  </a>
   <a href="https://imnascimento.github.io/Portifolio/" target="_blank" style="text-decoration: none;">
   <img height="110" src="https://cdn.qwiklabs.com/XmDwq0koRvCeVVod7HM4qb%2BiCc34fbu50x1jHZfeSm4%3D" alt="MLOps"/>
   </a>
