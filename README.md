@@ -89,6 +89,10 @@
   <a href="https://www.credly.com/badges/04966e4e-1c16-42da-9a22-9cf6bc0048ad/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/340x340/images/7658c4f1-0570-42c7-83b0-04cac8b0aca2/image.png" alt="Generative AI Essentials"/>
   </a>
+  
+  <a href="https://www.credly.com/badges/5d0e7689-6c8c-4744-aef2-e029fcf0e70a/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/340x340/images/33ed2910-9750-4613-aa2a-590e845c6edb/image.png" alt="Python Project for AI and Application Development"/>
+  </a>
   <a href="https://www.credly.com/badges/218aa7a4-90ce-460e-87eb-f9f49e35e1e4/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/340x340/images/3e199561-bc4a-4621-9361-340fc43d997e/Coursera_20Artificial_20Intelligence_20Essentials_20V2.png" alt="Artificial Intelligence Essentials"/>
   </a>
