@@ -101,7 +101,9 @@
   <a href="https://www.credly.com/badges/1c21e3b9-1f80-4596-aac4-0a07d20afadb/public_url" target="_blank" style="text-decoration: none;">
     <img height="110" src="https://images.credly.com/size/340x340/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" alt="Python for Data Science and AI"/>
   </a>
-  
+  <a href="https://www.credly.com/badges/bc4f15b4-d2c6-4956-9403-ad0646c8a3ce/public_url" target="_blank" style="text-decoration: none;">
+    <img height="110" src="https://images.credly.com/size/340x340/images/950038fc-2519-4f79-8827-f71caf0f5095/image.png" alt="Data Analysis with Python"/>
+  </a>
   <a href="https://imnascimento.github.io/Portifolio/" target="_blank" style="text-decoration: none;">
   <img height="110" src="https://cdn.qwiklabs.com/XmDwq0koRvCeVVod7HM4qb%2BiCc34fbu50x1jHZfeSm4%3D" alt="MLOps"/>
   </a>
