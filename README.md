@@ -148,7 +148,7 @@ payload = (
 
 ### Em construção...
 
-![Snake animation](https://github.com/IMNascimento/forkSneak/blob/output/github-contribution-grid-snake.svg)
+![contribution-animation](https://github.com/user-attachments/assets/7877f959-4c4c-474e-b238-d5403a21eb14)
   
 
 <p align="center"> 
