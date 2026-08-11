@@ -1,5 +1,5 @@
 # Hello, geeks! 👋
-## <a href="https://imnascimento.github.io/Portifolio/" target="_blank"><img src="https://github.com/IMNascimento/DVR/assets/28989407/84028706-5a9e-4d00-af2c-2935e5604035" alt="Nascimento" width="30" height="30"></a> Mais sobre mim
+## <a href="https://imnascimento.github.io/Portifolio/" target="_blank"><img src="https://github.com/user-attachments/assets/6d0b230e-3666-4782-b5ce-78e76964ce09" alt="Nascimento" width="30" height="30"></a> Mais sobre mim
 
 <!--<img align="right" width="300" height="246" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />-->
   <p align="center">
