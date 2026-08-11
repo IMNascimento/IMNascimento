@@ -6,14 +6,6 @@
    <!-- <a href="https://github.com/IMNascimento/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/IMNascimento/github-readme-stats" />
     </a>-->
-    <a href="https://github.com/IMNascimento/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/IMNascimento/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/IMNascimento/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/IMNascimento/github-readme-stats?color=0088ff" />
-    </a>
-    <br />
-    <br />
   </p>
   
 <div align="center">
@@ -112,151 +104,6 @@
   </a>
 </p>
 
- ### 📫 Como chegar até mim?
-<div> 
-  <a href="https://www.instagram.com/igosjn99/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:trabalho.computador.sjn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/igor-nascimento-a76a29155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://github.com/IMNascimento/" target="_blank"><img src="https://img.shields.io/github/followers/IMNascimento?label=follow&style=social" target="_blank"></a> 
-</div>
-
-
-## Languages
-<img align="center" alt="HTML"    height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" />
-<img align="center" alt="CSS"     height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" />
-<img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" />
-<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" />
-<img align="center" alt="Python"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="center" alt="PHP"     height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php_(elephpant).png" />
-<img align="center" alt="Go"      height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" />
-<img align="center" alt="Java"    height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" />
-<img align="center" alt="C++"     height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" />
-<img align="center" alt="C"       height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" />
-<img align="center" alt="R"       height="30" width="40" src="https://skillicons.dev/icons?i=r" />
-<img align="center" alt="Markdown"   height="30" width="40" src="https://skillicons.dev/icons?i=md" />
-
----
-
-## Databases
-<img align="center" alt="MySQL"      height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" />
-<img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" />
-<img align="center" alt="SQLite"     height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" />
-<img align="center" alt="MariaDB"    height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" />
-<img align="center" alt="Redis"      height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" />
-
----
-
-## Backend Frameworks & Tools
-<img align="center" alt="Spring"     height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" />
-<img align="center" alt="Spring Boot" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" />
-<img align="center" alt="Laravel"    height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" />
-<img align="center" alt="Django"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" />
-<img align="center" alt="Flask"      height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" />
-<img align="center" alt="Whatsmeow"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
-<img align="center" alt="FastApi"   height="30" width="40" src="https://skillicons.dev/icons?i=fastapi" />
-
----
-
-## Frontend Frameworks & UI
-<img align="center" alt="Bootstrap"    height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" />
-<img align="center" alt="Tailwind CSS" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" />
-<img align="center" alt="Materialize"  height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/materialize.png" />
-<img align="center" alt="Bulma"        height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bulma.png" />
-<img align="center" alt="React"        height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" />
-<img align="center" alt="Next.js"      height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/next_js.png" />
-<img align="center" alt="Angular"      height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" />
-
----
-
-## Data Science & Machine Learning 
-<img align="center" alt="NumPy"      height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" />
-<img align="center" alt="Pandas"     height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" />
-<img align="center" alt="TensorFlow" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" />
-<img align="center" alt="OpenCv"   height="30" width="40" src="https://skillicons.dev/icons?i=opencv" />
-<img align="center" alt="Pytorch"   height="30" width="40" src="https://skillicons.dev/icons?i=pytorch" />
-<img align="center" alt="Sklearn"   height="30" width="40" src="https://skillicons.dev/icons?i=sklearn" />
-
-
----
-
-## Version Control
-<img align="center" alt="Git"     height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" />
-<img align="center" alt="GitHub"  height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" />
-
----
-
-## DevOps & CI/CD
-<img align="center" alt="Docker"     height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" />
-<img align="center" alt="CI/CD"      height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" />
-<img align="center" alt="NGINX"      height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" />
-<img align="center" alt="DigitalOcean" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/digital_ocean.png" />
-<img align="center" alt="GitHub Actions"   height="30" width="40" src="https://skillicons.dev/icons?i=githubactions" />
-
----
-
-## Testing
-<img align="center" alt="PyTest"     height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pytest.png" />
-<img align="center" alt="Selenium"   height="30" width="40" src="https://skillicons.dev/icons?i=selenium" />
-
----
-
-## Shell & Scripting
-<img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" />
-<img align="center" alt="OpenCv"   height="30" width="40" src="https://skillicons.dev/icons?i=powershell" />
-
----
-
-## Editors & IDEs
-<img align="center" alt="VS Code"   height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" />
-<img align="center" alt="Vim"       height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" />
-<img align="center" alt="Atom"      height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/atom.png" />
-<img align="center" alt="Sublime"   height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sublime_text.png" />
-<img align="center" alt="Eclipse"   height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/eclipse.png" />
-<img align="center" alt="Jupyter"   height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" />
-<img align="center" alt="Postman"   height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" />
-<img align="center" alt="Swagger"   height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" />
-
----
-
-## Operating Systems
-<img align="center" alt="Windows"  height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/windows.png" />
-<img align="center" alt="macOS"    height="30" width="40" src="https://skillicons.dev/icons?i=apple" />
-<img align="center" alt="Linux"    height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" />
-<img align="center" alt="Ubuntu"   height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" />
-<img align="center" alt="Kali"     height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" />
-<img align="center" alt="Mint"     height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux_mint.png" />
-<img align="center" alt="Debian"   height="30" width="40" src="https://skillicons.dev/icons?i=debian" />
-
----
-
-## Build Tools & Package Managers
-<img align="center" alt="Maven" height="30" width="40"  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/maven.png" />
-<img align="center" alt="npm"   height="30" width="40"  src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" />
-
----
-
-## Embedded & IoT
-<img align="center" alt="Arduino"   height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/arduino.png" />
-<img align="center" alt="Raspberry Pi" height="30" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" />
-  
- ---
- 
-</div>
-
-### 🎮 Quer jogar?
-<div>
- <a href="https://robotsevolved.com/" target="_blank">Robots Envolved</a>
- <a href="https://www.beecrowd.com.br/judge/pt" target="_blank">Beecrowd</a>
-</div>
-
-### 👀 Testador Online?
-<div>
- <a href="https://www.onlinegdb.com/" target="_blank">Online GBD</a>
-</div>
-
-
-
-
 ### Para você:
 
 ```python
@@ -275,16 +122,32 @@ payload = (
     b"\x6c\x69\x6f\x2f"
 )
 ```
+ ### 📫 Como chegar até mim?
+<div> 
+  <a href = "mailto:trabalho.computador.sjn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/igor-nascimento-a76a29155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   <a href="https://github.com/IMNascimento/" target="_blank"><img src="https://img.shields.io/github/followers/IMNascimento?label=follow&style=social" target="_blank"></a> 
+</div>
+
+</div>
+
+### 🎮 Quer jogar?
+<div>
+ <a href="https://robotsevolved.com/" target="_blank">Robots Envolved</a>
+ <a href="https://www.beecrowd.com.br/judge/pt" target="_blank">Beecrowd</a>
+</div>
+
+### 👀 Testador Online?
+<div>
+ <a href="https://www.onlinegdb.com/" target="_blank">Online GBD</a>
+</div>
+
 
 ### Em construção...
 
 ![Snake animation](https://github.com/IMNascimento/forkSneak/blob/output/github-contribution-grid-snake.svg)
   
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/IMNascimento/count.svg" />
-</p>
 <p align="center"> 
   <a href="http://www.antiifcampaign.com">
   <img height="60" width="90"
